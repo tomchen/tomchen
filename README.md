@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![SVG](https://github.com/tomchen/my-avatar/blob/master/tomchen.gif)
+
+![SVG](https://github.com/tomchen/test2/blob/master/SVG_animation_using_CSS.svg)
+
+![SVG](https://github.com/tomchen/test2/blob/master/SVG_animation_using_SMIL.svg)
+
 <!--
 **tomchen/tomchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
