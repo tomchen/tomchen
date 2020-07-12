@@ -11,7 +11,7 @@ You have stayed on my page for:
 </p>
 
 <p align="center">
-<a href="https://github.com/tomchen/svg-clock"><img src="https://github.com/tomchen/svg-clock/raw/master/clock.svg" alt="Clock" title="Clock" width="200px" height="200px"></a>
+<a href="https://github.com/tomchen/animated-svg-clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" title="Clock" width="200px" height="200px"></a>
 </p>
 
 * <span title="Residence">📌</span>: <span title="France">:fr:</span>
