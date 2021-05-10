@@ -14,15 +14,15 @@ You have stayed on my page for:
 * <span title="Languages">👄</span>: [zh](https://en.wikipedia.org/wiki/Chinese_language "Chinese") ([cmn](https://en.wikipedia.org/wiki/Mandarin_Chinese "Mandarin") / [hans](https://en.wikipedia.org/wiki/Simplified_Chinese_characters "Simplified Chinese") & [hant](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese")), [en](https://en.wikipedia.org/wiki/English_language "English"), [fr](https://en.wikipedia.org/wiki/French_language "French"), a little [de](https://en.wikipedia.org/wiki/German_language "German") & [ja](https://en.wikipedia.org/wiki/Japanese_language "Japanese")
 * <span title="Email">📧</span>: [tomchen.org@gmail.com](mailto:tomchen.org@gmail.com)
 * <span title="Website">🏠</span>: [tomchen.org](https://tomchen.org/) (<span title="redirecting">rdr.</span> to github.com/tomchen for now)
-* <span title="I use">🧰</span>: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+* <span title="I use">🧰</span>: <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="21px" height="21px"></a>
 <a href="https://svelte.dev/" title="Svelte"><img src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" alt="Svelte" width="21px" height="21px"></a>
-<a href="https://reactivex.io/" title="ReactiveX (RxJS)"><img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="ReactiveX (RxJS)" width="21px" height="21px"></a>
+<a href="https://rxjs.dev/" title="RxJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="RxJS" width="21px" height="21px"></a>
 <a href="https://github.com/redux-observable/redux-observable" title="redux-observable"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux-observable.svg" alt="redux-observable" width="21px" height="21px"></a>
 <a href="https://d3js.org/" title="D3"><img src="https://github.com/get-icon/geticon/raw/master/icons/d3.svg" alt="D3" width="21px" height="21px"></a>
 <a href="https://greensock.com/gsap/" title="GSAP"><img src="https://github.com/get-icon/geticon/raw/master/icons/gsap.svg" alt="GSAP" width="21px" height="21px"></a>
@@ -51,6 +51,7 @@ You have stayed on my page for:
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
+<a href="https://www.apollographql.com/" title="Apollo"><img src="https://github.com/get-icon/geticon/raw/master/icons/apollostack.svg" alt="Apollo" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://subversion.apache.org/" title="Subversion"><img src="https://github.com/get-icon/geticon/raw/master/icons/subversion.svg" alt="Subversion" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
@@ -65,7 +66,9 @@ You have stayed on my page for:
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="21px" height="21px"></a>
+<a href="https://github.com/enzymejs/enzyme" title="Enzyme"><img src="https://github.com/get-icon/geticon/raw/master/icons/enzyme.svg" alt="Enzyme" width="21px" height="21px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px"></a>
+<a href="https://nightwatchjs.org/" title="Nightwatch.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nightwatch.svg" alt="Nightwatch.js" width="21px" height="21px"></a>
 <a href="https://circleci.com/" title="CircleCI"><img src="https://github.com/get-icon/geticon/raw/master/icons/circleci.svg" alt="CircleCI" width="21px" height="21px"></a>
 <a href="https://codecov.io/" title="Codecov"><img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" alt="Codecov" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
@@ -74,6 +77,12 @@ You have stayed on my page for:
 <a href="https://gohugo.io/" title="Hugo"><img src="https://github.com/get-icon/geticon/raw/master/icons/hugo-icon.svg" alt="Hugo" width="21px" height="21px"></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
 <a href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="21px" height="21px"></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
+<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="21px" height="21px"></a>
+<a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
+<a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a>
+<a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="21px" height="21px"></a>
+<a href="https://openid.net/" title="OpenID"><img src="https://github.com/get-icon/geticon/raw/master/icons/openid-icon.svg" alt="OpenID" width="21px" height="21px"></a>
 <a href="https://deno.land/" title="Deno"><img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" alt="Deno" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a>
